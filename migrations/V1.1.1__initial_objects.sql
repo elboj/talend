@@ -1,5 +1,5 @@
 CREATE SCHEMA DEMO;
-create table HELLO_WORLD(
+create table MOCK_DATA (
 	id INT,
 	first_name VARCHAR(50),
 	last_name VARCHAR(50),
