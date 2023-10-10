@@ -1,3 +1,4 @@
+CREATE SCHEMA DEMO;
 create table MOCK_DATA (
 	id INT,
 	first_name VARCHAR(50),
