@@ -17,3 +17,6 @@ insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) val
 insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (8, 'Mellicent', 'Popov', 'mpopov7@csmonitor.com', 'Female', '247.247.59.176');
 insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (9, 'Mack', 'Portis', 'mportis8@google.com', 'Male', '63.201.40.24');
 insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (10, 'Veronika', 'Cardus', 'vcardus9@yelp.com', 'Female', '166.9.157.41');
+insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (8, 'Tobi', 'Popov', 'mpopov7@csmonitor.com', 'Female', '247.247.59.176');
+insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (9, 'Sabinus', 'Portis', 'mportis8@google.com', 'Male', '63.201.40.24');
+insert into MOCK_DATA (id, first_name, last_name, email, gender, ip_address) values (10, 'Terra', 'Cardus', 'vcardus9@yelp.com', 'Female', '166.9.157.41');
